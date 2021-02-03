@@ -9,7 +9,7 @@ class Offline1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('alcudia'),
+        title: Text('Rent A Boat in Mallorca'),
         elevation: 0,
         centerTitle: false,
         actions: [
